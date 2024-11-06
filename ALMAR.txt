@@ -1,0 +1,33 @@
+
+package biography;
+
+import java.util.Scanner;
+
+
+public class BIOGRAPHY {
+
+    
+    public static void main(String[] args) {
+       Scanner scanner;
+       scanner = new Scanner(System.in);
+       
+       System.out.println ("name: ")
+       String name + scanner.nextLine();
+       
+       System.out.println ("birthyear: ");
+       String birthyear = scanner.nextLine();
+       
+       System.out.println("nationality  ");
+       String nationality = scanner.nextLine();
+       
+       System.out.println("occupation ");
+       String occupation = scanner.nextLine();
+       
+       System.out.println ("notable Achievement ");
+       int notable Achievement = scanner.nextLine();
+       
+       System.out.println ("award ")
+       String award  = scanner.nextLine();
+       
+       System.out.println ("famous quotes ");
+       int famous String quotes = scanner.nextLine();
